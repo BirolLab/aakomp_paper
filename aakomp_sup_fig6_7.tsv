@@ -1,0 +1,73 @@
+organism	database_type	clade	species	common_name	divergence_mya	mash_distance	aakomp_score	reference_db	assembly_accession	assembly_name	wall_time_min	peak_rss_gib
+Primates	Species Proteome	Hominidae	Pan troglodytes	Chimpanzee	6.4	0.0129198	95.0162	Human Proteome (UP000005640)	GCA_028858775.3	NHGRI_mPanTro3-v2.1_pri	11.71	17.36
+Primates	Species Proteome	Hominidae	Gorilla gorilla	Western Lowland Gorilla	8.6	0.0164427	94.8089	Human Proteome (UP000005640)	GCA_029281585.3	NHGRI_mGorGor1-v2.1_pri	7.25	19.15
+Primates	Species Proteome	Hominidae	Pongo abelii	Sumatran Orangutan	15.2	0.0320933	92.7375	Human Proteome (UP000005640)	GCA_028885655.3	NHGRI_mPonAbe1-v2.1_pri	10.01	22.83
+Primates	Species Proteome	Hylobatidae	Symphalangus syndactylus	Siamang	19.5	0.035622	90.7639	Human Proteome (UP000005640)	GCA_028878055.3	NHGRI_mSymSyn1-v2.1_pri	10.06	18.56
+Primates	Species Proteome	Cercopithecidae	Macaca mulatta	Rhesus Macaque	28.8	0.0572108	88.6025	Human Proteome (UP000005640)	GCA_049350105.2	T2T-MMU8v2.0	9.26	17.61
+Primates	Species Proteome	Cebidae	Callithrix jacchus	Common Marmoset	42.9	0.0962153	80.192	Human Proteome (UP000005640)	GCA_049354665.1	calJac220_pri	6.14	14.67
+Primates	Species Proteome	Tarsiidae	Carlito syrichta	Philippine Tarsier	68.6	0.170926	67.7865	Human Proteome (UP000005640)	GCA_059932695.1	mCarSyr1.hap1	4.1	15.78
+Primates	Species Proteome	Cheirogaleidae	Microcebus murinus	Gray Mouse Lemur	73.8	0.145727	68.4297	Human Proteome (UP000005640)	GCA_040939455.2	M.murinus_Inina_mat1.0	3.76	12.52
+Primates	OrthoDB Lineage	Hominidae	Pan troglodytes	Chimpanzee	6.4	0.0129198	94.1624	primates_odb12	GCA_028858775.3	NHGRI_mPanTro3-v2.1_pri	2.55	14.16
+Primates	OrthoDB Lineage	Hominidae	Gorilla gorilla	Western Lowland Gorilla	8.6	0.0164427	94.1821	primates_odb12	GCA_029281585.3	NHGRI_mGorGor1-v2.1_pri	2.33	15.82
+Primates	OrthoDB Lineage	Hominidae	Pongo abelii	Sumatran Orangutan	15.2	0.0320933	94.3062	primates_odb12	GCA_028885655.3	NHGRI_mPonAbe1-v2.1_pri	2.36	15.68
+Primates	OrthoDB Lineage	Hylobatidae	Symphalangus syndactylus	Siamang	19.5	0.035622	93.6716	primates_odb12	GCA_028878055.3	NHGRI_mSymSyn1-v2.1_pri	1.96	15.22
+Primates	OrthoDB Lineage	Cercopithecidae	Macaca mulatta	Rhesus Macaque	28.8	0.0572108	93.6803	primates_odb12	GCA_049350105.2	T2T-MMU8v2.0	2.48	13.73
+Primates	OrthoDB Lineage	Cebidae	Callithrix jacchus	Common Marmoset	42.9	0.0962153	90.2431	primates_odb12	GCA_049354665.1	calJac220_pri	2.25	13.2
+Primates	OrthoDB Lineage	Tarsiidae	Carlito syrichta	Philippine Tarsier	68.6	0.170926	82.3323	primates_odb12	GCA_059932695.1	mCarSyr1.hap1	1.57	14.9
+Primates	OrthoDB Lineage	Cheirogaleidae	Microcebus murinus	Gray Mouse Lemur	73.8	0.145727	86.2112	primates_odb12	GCA_040939455.2	M.murinus_Inina_mat1.0	1.99	11.98
+European eel	Species Proteome	Anguilliformes	Anguilla rostrata	American eel	4.8	0.0181917	94.8945	A. anguilla Proteome (UP001044222)	GCA_018555375.3	ASM1855537v3	1.42	7.78
+European eel	Species Proteome	Anguilliformes	Anguilla japonica	Japanese eel	13.1	0.0293293	92.6062	A. anguilla Proteome (UP001044222)	GCA_059745965.1	ASM5974596v1	1.50	9.70
+European eel	Species Proteome	Anguilliformes	Conger myriaster	Whitespotted conger	130.5	0.159146	61.375	A. anguilla Proteome (UP001044222)	GCA_047653785.1	ASM4765378v1	1.73	9.59
+European eel	Species Proteome	Albuliformes	Albula glossodonta	Roundjaw bonefish	150.3	0.203604	51.9313	A. anguilla Proteome (UP001044222)	GCA_056783665.1	fAlbGlo1.hap1	1.19	7.11
+European eel	Species Proteome	Anguilliformes	Muraena helena	Mediterranean moray	173.0	0.203604	51.0462	A. anguilla Proteome (UP001044222)	GCA_978019965.1	fMurHel1.1	4.28	12.21
+European eel	Species Proteome	Elopiformes	Megalops cyprinoides	Indo-Pacific tarpon	175.0	0.219531	47.7346	A. anguilla Proteome (UP001044222)	GCA_013368585.1	fMegCyp1.pri	1.18	7.16
+European eel	Species Proteome	Cypriniformes	Danio rerio	Zebrafish	249.6	0.295981	35.6637	A. anguilla Proteome (UP001044222)	GCA_052040795.2	GRCz13ab	1.29	11.45
+European eel	Species Proteome	Osteoglossiformes	Osteoglossum bicirrhosum	Silver arowana	263.4	0.295981	36.3961	A. anguilla Proteome (UP001044222)	GCA_047301455.1	ASM4730145v1	0.87	6.98
+European eel	OrthoDB Lineage	Anguilliformes	Anguilla rostrata	American eel	4.8	0.0181917	48.7536	actinopterygii_odb12	GCA_018555375.3	ASM1855537v3	0.80	4.83
+European eel	OrthoDB Lineage	Anguilliformes	Anguilla japonica	Japanese eel	13.1	0.0293293	49.2831	actinopterygii_odb12	GCA_059745965.1	ASM5974596v1	0.91	5.89
+European eel	OrthoDB Lineage	Anguilliformes	Conger myriaster	Whitespotted conger	130.5	0.159146	48.4344	actinopterygii_odb12	GCA_047653785.1	ASM4765378v1	1.00	5.50
+European eel	OrthoDB Lineage	Albuliformes	Albula glossodonta	Roundjaw bonefish	150.3	0.203604	51.307	actinopterygii_odb12	GCA_056783665.1	fAlbGlo1.hap1	0.55	5.64
+European eel	OrthoDB Lineage	Anguilliformes	Muraena helena	Mediterranean moray	173.0	0.203604	44.6096	actinopterygii_odb12	GCA_978019965.1	fMurHel1.1	1.23	9.66
+European eel	OrthoDB Lineage	Elopiformes	Megalops cyprinoides	Indo-Pacific tarpon	175.0	0.219531	53.436	actinopterygii_odb12	GCA_013368585.1	fMegCyp1.pri	1.16	6.12
+European eel	OrthoDB Lineage	Cypriniformes	Danio rerio	Zebrafish	249.6	0.295981	48.2553	actinopterygii_odb12	GCA_052040795.2	GRCz13ab	1.23	8.26
+European eel	OrthoDB Lineage	Osteoglossiformes	Osteoglossum bicirrhosum	Silver arowana	263.4	0.295981	49.5184	actinopterygii_odb12	GCA_047301455.1	ASM4730145v1	0.66	5.56
+Bumble bee	Species Proteome	Bombus	Bombus pascuorum	Common carder bee	13.2	0.0434809	91.9548	B. terrestris Proteome (UP000835206)	GCA_905332965.1	iyBomPasc1.1	0.32	2.85
+Bumble bee	Species Proteome	Bombus	Bombus lapidarius	Red-tailed bumblebee	23.5	0.0430292	92.9459	B. terrestris Proteome (UP000835206)	GCA_964186655.1	iyBomLapi1.1	0.26	2.87
+Bumble bee	Species Proteome	Other Apidae	Apis mellifera	Western honey bee	82.0	0.178173	64.1466	B. terrestris Proteome (UP000835206)	GCA_003314205.2	INRA_AMelMel_1.1	0.25	2.53
+Bumble bee	Species Proteome	Other Apidae	Xylocopa sonorina	Valley carpenter bee	99.8	0.161822	60.3519	B. terrestris Proteome (UP000835206)	GCA_050948175.1	iyXylSono1_principal	0.28	2.84
+Bumble bee	Species Proteome	Other Apidae	Nomada fabriciana	Fabricius nomad bee	108.0	0.170926	58.3248	B. terrestris Proteome (UP000835206)	GCA_907165295.1	iyNomFabr1.1	0.20	2.52
+Bumble bee	Species Proteome	Halictidae	Halictus rubicundus	Orange-legged furrow bee	110.4	0.197292	49.0315	B. terrestris Proteome (UP000835206)	GCA_028454235.1	HRUB_v2.2.0	0.24	2.76
+Bumble bee	Species Proteome	Megachilidae	Osmia bicornis	Red mason bee	116.8	0.167688	57.2462	B. terrestris Proteome (UP000835206)	GCA_907164935.1	iOsmBic2.1	0.15	2.38
+Bumble bee	Species Proteome	Vespidae	Vespa crabro	European hornet	118.0	0.263022	43.1385	B. terrestris Proteome (UP000835206)	GCA_060307625.1	ASM6030762v1	0.62	3.02
+Bumble bee	Species Proteome	Formicidae	Solenopsis invicta	Red imported fire ant	118.0	0.219531	35.7762	B. terrestris Proteome (UP000835206)	GCA_009299965.1	ASM929996v1	0.34	2.74
+Bumble bee	OrthoDB Lineage	Bombus	Bombus pascuorum	Common carder bee	13.2	0.0434809	68.329	hymenoptera_odb12	GCA_905332965.1	iyBomPasc1.1	0.37	2.15
+Bumble bee	OrthoDB Lineage	Bombus	Bombus lapidarius	Red-tailed bumblebee	23.5	0.0430292	66.2869	hymenoptera_odb12	GCA_964186655.1	iyBomLapi1.1	0.18	2.17
+Bumble bee	OrthoDB Lineage	Other Apidae	Apis mellifera	Western honey bee	82.0	0.178173	66.3202	hymenoptera_odb12	GCA_003314205.2	INRA_AMelMel_1.1	0.26	1.81
+Bumble bee	OrthoDB Lineage	Other Apidae	Xylocopa sonorina	Valley carpenter bee	99.8	0.161822	66.6452	hymenoptera_odb12	GCA_050948175.1	iyXylSono1_principal	0.23	2.14
+Bumble bee	OrthoDB Lineage	Other Apidae	Nomada fabriciana	Fabricius nomad bee	108.0	0.170926	65.672	hymenoptera_odb12	GCA_907165295.1	iyNomFabr1.1	0.22	1.81
+Bumble bee	OrthoDB Lineage	Halictidae	Halictus rubicundus	Orange-legged furrow bee	110.4	0.197292	63.3386	hymenoptera_odb12	GCA_028454235.1	HRUB_v2.2.0	0.28	2.07
+Bumble bee	OrthoDB Lineage	Megachilidae	Osmia bicornis	Red mason bee	116.8	0.167688	67.8317	hymenoptera_odb12	GCA_907164935.1	iOsmBic2.1	0.32	1.68
+Bumble bee	OrthoDB Lineage	Vespidae	Vespa crabro	European hornet	118.0	0.263022	68.5055	hymenoptera_odb12	GCA_060307625.1	ASM6030762v1	0.54	2.77
+Bumble bee	OrthoDB Lineage	Formicidae	Solenopsis invicta	Red imported fire ant	118.0	0.219531	56.8895	hymenoptera_odb12	GCA_009299965.1	ASM929996v1	0.17	1.94
+Asian cultivated rice	Species Proteome	Oryza	Oryza rufipogon	Wild rice progenitor	0.7	0.0130638	91.5418	O. sativa Proteome (UP000059680)	GCA_037997075.1	ASM3799707v1	1.83	5.73
+Asian cultivated rice	Species Proteome	Oryza	Oryza barthii	African wild rice	2.0	0.00948708	92.819	O. sativa Proteome (UP000059680)	GCA_055775245.1	ASM5577524v1	1.35	5.46
+Asian cultivated rice	Species Proteome	Oryza	Oryza brachyantha	Short-flowered wild rice	7.0	0.167688	44.9382	O. sativa Proteome (UP000059680)	GCA_000231095.3	ObraRS2	1.29	4.57
+Asian cultivated rice	Species Proteome	Oryza	Oryza punctata	Red rice	15.0	0.0909306	62.0274	O. sativa Proteome (UP000059680)	GCA_000573905.2	OpunRS2	2.01	5.70
+Asian cultivated rice	Species Proteome	Leersia	Leersia perrieri	Rice grass	19.8	0.174408	42.7552	O. sativa Proteome (UP000059680)	GCA_000325765.3	Lperr_V1.4	1.52	4.41
+Asian cultivated rice	Species Proteome	Pooideae	Brachypodium distachyon	Purple false brome	47.0	0.210897	26.2104	O. sativa Proteome (UP000059680)	GCA_000005505.4	Brachypodium_distachyon_v3.0	1.86	4.40
+Asian cultivated rice	Species Proteome	Pooideae	Hordeum vulgare	Barley	47.0	0.23011	52.6353	O. sativa Proteome (UP000059680)	GCA_965212065.1	lpHorVulg1.hap1.1	109.52	65.40
+Asian cultivated rice	Species Proteome	Panicoideae	Setaria italica	Foxtail millet	49.1	0.191731	28.1554	O. sativa Proteome (UP000059680)	GCA_000263155.2	Setaria_italica_v2.0	2.21	5.47
+Asian cultivated rice	Species Proteome	Panicoideae	Sorghum bicolor	Sorghum	49.1	0.243761	29.2037	O. sativa Proteome (UP000059680)	GCA_048338455.1	Sbi_654_T2T	4.49	11.23
+Asian cultivated rice	Species Proteome	Panicoideae	Zea mays	Maize	49.1	0.295981	29.0786	O. sativa Proteome (UP000059680)	GCA_902167145.1	Zm-B73-REFERENCE-NAM-5.0	11.61	21.44
+Asian cultivated rice	Species Proteome	Bromeliaceae	Ananas comosus	Pineapple	106.0	0.295981	13.3377	O. sativa Proteome (UP000059680)	GCA_001540865.1	ASM154086v1	0.43	4.34
+Asian cultivated rice	OrthoDB Lineage	Oryza	Oryza rufipogon	Wild rice progenitor	0.7	0.0130638	63.804	poales_odb12	GCA_037997075.1	ASM3799707v1	0.78	2.70
+Asian cultivated rice	OrthoDB Lineage	Oryza	Oryza barthii	African wild rice	2.0	0.00948708	63.9249	poales_odb12	GCA_055775245.1	ASM5577524v1	0.75	2.67
+Asian cultivated rice	OrthoDB Lineage	Oryza	Oryza brachyantha	Short-flowered wild rice	7.0	0.167688	62.3672	poales_odb12	GCA_000231095.3	ObraRS2	0.83	2.40
+Asian cultivated rice	OrthoDB Lineage	Oryza	Oryza punctata	Red rice	15.0	0.0909306	63.516	poales_odb12	GCA_000573905.2	OpunRS2	1.08	2.87
+Asian cultivated rice	OrthoDB Lineage	Leersia	Leersia perrieri	Rice grass	19.8	0.174408	59.8818	poales_odb12	GCA_000325765.3	Lperr_V1.4	0.59	2.11
+Asian cultivated rice	OrthoDB Lineage	Pooideae	Brachypodium distachyon	Purple false brome	47.0	0.210897	56.2165	poales_odb12	GCA_000005505.4	Brachypodium_distachyon_v3.0	1.45	3.07
+Asian cultivated rice	OrthoDB Lineage	Pooideae	Hordeum vulgare	Barley	47.0	0.23011	59.4702	poales_odb12	GCA_965212065.1	lpHorVulg1.hap1.1	11.30	27.99
+Asian cultivated rice	OrthoDB Lineage	Panicoideae	Setaria italica	Foxtail millet	49.1	0.191731	62.3021	poales_odb12	GCA_000263155.2	Setaria_italica_v2.0	1.30	3.13
+Asian cultivated rice	OrthoDB Lineage	Panicoideae	Sorghum bicolor	Sorghum	49.1	0.243761	61.5482	poales_odb12	GCA_048338455.1	Sbi_654_T2T	1.96	5.89
+Asian cultivated rice	OrthoDB Lineage	Panicoideae	Zea mays	Maize / Corn	49.1	0.295981	59.2782	poales_odb12	GCA_902167145.1	Zm-B73-REFERENCE-NAM-5.0	5.69	13.27
+Asian cultivated rice	OrthoDB Lineage	Bromeliaceae	Ananas comosus	Pineapple	106.0	0.295981	31.6105	poales_odb12	GCA_001540865.1	ASM154086v1	0.16	2.10
