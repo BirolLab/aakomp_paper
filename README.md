@@ -1,2 +1,2 @@
 # aakomp_paper
-figure and data used to generate manuscript figures
+This repository contains the R scripts and data used to generate the main and supplementary figures for aaKomp.
